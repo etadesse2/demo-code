@@ -1,1 +1,1 @@
-ptony"hello"
+print ("hello")
